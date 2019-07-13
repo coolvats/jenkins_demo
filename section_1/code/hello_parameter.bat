@@ -1,2 +1,2 @@
-echo Hello $name
+echo Hello %name%
 exit 0
